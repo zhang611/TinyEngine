@@ -1,15 +1,9 @@
-﻿//
-// Created by captain on 2021/6/20.
-//
-
-#ifndef UNTITLED_KEYCODE_H
+﻿#ifndef UNTITLED_KEYCODE_H
 #define UNTITLED_KEYCODE_H
 
-
-
-#define KEY_ACTION_UP          0x00
+#define KEY_ACTION_UP              0x00
 #define KEY_ACTION_DOWN            0x01
-#define KEY_ACTION_REPEAT           0x02
+#define KEY_ACTION_REPEAT          0x02
 
 /* The unknown key */
 #define KEY_CODE_UNKNOWN            -1
